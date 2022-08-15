@@ -20,5 +20,5 @@
 </p>
 
 [![liusixin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-<img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=asoul" alt="" />
+<img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
 
