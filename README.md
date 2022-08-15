@@ -1,17 +1,20 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-
-**lsxlsxxslxsl/lsxlsxxslxsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>Welcome to my page! </br> I'm Liusixin, FE developer from China</p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-Vue-65b687?logo=v&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white" /> 
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?logo=rollup.js&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?logo=nestjs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
+</p>
 
 [![liusixin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
