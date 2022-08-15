@@ -28,3 +28,6 @@
 <!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
 ![](https://github.com/lsxlsxxslxsl/lsxlsxxslxsl/blob/main/assets/github-contribution-grid-snake.svg)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
