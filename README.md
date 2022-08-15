@@ -1,6 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
-
-<p>Welcome to my page! </br> I'm Liusixin, FE developer from China</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75825&width=435&lines=Hey!+Nice+to+meet+you.;Welcome+to+my+page!;I'm+Liusixin%2C+FE+developer+from+China)](https://git.io/typing-svg)
 <h3>I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
