@@ -25,5 +25,6 @@
 <img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
+![](https://raw.githubusercontent.com/lsxlsxxslxsl/lsxlsxxslxsl/main/assets/github-contribution-grid-snake.svg)
 
