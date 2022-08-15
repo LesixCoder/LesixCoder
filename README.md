@@ -1,6 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
-
-<p>Welcome to my page! </br> I'm Liusixin, FE developer from China</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F7601E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey!+Nice+to+meet+you.;Welcome+to+my+page!;I'm+Liusixin%2C+FE+developer+from+China)](https://git.io/typing-svg)
 <h3>I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
@@ -26,5 +24,17 @@
 </div>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
-![](https://raw.githubusercontent.com/lsxlsxxslxsl/lsxlsxxslxsl/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/lsxlsxxslxsl/lsxlsxxslxsl/blob/main/assets/github-contribution-grid-snake.svg)
 
+<!--START_SECTION:waka-->
+
+```text
+From: 16 July 2022 - To: 15 August 2022
+
+JavaScript   4 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.38 %
+Vue.js       1 hr 49 mins    ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.59 %
+JSON         1 hr 34 mins    ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.93 %
+Other        43 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.79 %
+```
+
+<!--END_SECTION:waka-->
