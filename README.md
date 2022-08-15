@@ -26,5 +26,5 @@
 </div>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
-![](https://raw.githubusercontent.com/lsxlsxxslxsl/lsxlsxxslxsl/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/lsxlsxxslxsl/lsxlsxxslxsl/blob/main/assets/github-contribution-grid-snake.svg)
 
