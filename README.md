@@ -13,6 +13,8 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Jest-c21325?logo=jest&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Eslint-cccccc?logo=eslint&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 </p>
