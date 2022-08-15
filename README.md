@@ -19,6 +19,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 </p>
 
-[![liusixin's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
 <img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
 
