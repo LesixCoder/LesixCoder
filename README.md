@@ -19,9 +19,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 </p>
 
-<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
+<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
 
 <div align=center>
-<img height="150" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
+<img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
 </div>
 
