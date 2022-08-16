@@ -17,14 +17,14 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 </p>
 
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
-
-<div align=center>
+<!-- <div align=center>
 <img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
-</div>
+</div> -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
 ![](https://github.com/lsxlsxxslxsl/lsxlsxxslxsl/blob/main/assets/github-contribution-grid-snake.svg)
+
+<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
 
 <!--START_SECTION:waka-->
 
