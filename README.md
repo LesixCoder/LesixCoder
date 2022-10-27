@@ -22,9 +22,9 @@
 </div> -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
-![](https://github.com/lsxlsxxslxsl/lsxlsxxslxsl/blob/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/LesixCoder/LesixCoder/blob/main/assets/github-contribution-grid-snake.svg)
 
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=lsxlsxxslxsl&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
+<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=LesixCoder&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
 
 <!--START_SECTION:waka-->
 
