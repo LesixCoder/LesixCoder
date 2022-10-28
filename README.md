@@ -18,10 +18,10 @@
 </p>
 
 <!-- <div align=center>
-<img height="120" src="https://count.getloli.com/get/@lsxlsxxslxsl?theme=rule34" alt="" />
+<img height="120" src="https://count.getloli.com/get/@LesixCoder?theme=rule34" alt="" />
 </div> -->
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=lsxlsxxslxsl&theme=flat&column=6) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=LesixCoder&theme=flat&column=6) -->
 ![](https://github.com/LesixCoder/LesixCoder/blob/main/assets/github-contribution-grid-snake.svg)
 
 <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=LesixCoder&hide=contribs&count_private=true&show_icons=true&theme=react" alt="" />
