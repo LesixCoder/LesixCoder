@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 30 January 2023
+From: 01 January 2023 - To: 31 January 2023
 
 Vue.js       55 mins         ██████████▒░░░░░░░░░░░░░░   41.00 %
 JavaScript   35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.39 %
