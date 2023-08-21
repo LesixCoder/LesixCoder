@@ -29,13 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2023 - To: 18 August 2023
+From: 20 July 2023 - To: 19 August 2023
 
-Vue.js       51 hrs 14 mins  ███████████████░░░░░░░░░░   60.32 %
-TypeScript   26 hrs 49 mins  ████████░░░░░░░░░░░░░░░░░   31.59 %
-JSON         2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-YAML         2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JavaScript   1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Vue.js       49 hrs 20 mins  ███████████████▒░░░░░░░░░   61.16 %
+TypeScript   25 hrs 26 mins  ████████░░░░░░░░░░░░░░░░░   31.53 %
+JSON         2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+YAML         1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Less         59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
