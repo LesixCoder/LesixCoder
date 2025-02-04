@@ -29,13 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 01 February 2025
+From: 03 January 2025 - To: 02 February 2025
 
-Vue.js       38 hrs 34 mins  ███████████████▒░░░░░░░░░   60.85 %
-TypeScript   15 hrs 46 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-JavaScript   3 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-HTML         2 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Vue.js       35 hrs 30 mins  ███████████████▒░░░░░░░░░   61.34 %
+TypeScript   13 hrs 22 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+JavaScript   3 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+HTML         2 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
