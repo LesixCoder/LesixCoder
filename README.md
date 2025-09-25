@@ -29,7 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 22 September 2025
+From: 24 August 2025 - To: 23 September 2025
 
 Vue.js       9 hrs 42 mins   █████████████░░░░░░░░░░░░   51.78 %
 TypeScript   8 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   43.01 %
